@@ -17,4 +17,4 @@ This will install the required packages to run the project.
 ### 3. Finally, run the project with `npm start` <br/>
 The project should run in your default browser.
 
-To change samples, modify the audio files in the `/src/audio` folder of your local copy.
+To change samples, modify the audio files in the `/src/audio/` folder of your local copy.
